@@ -7,6 +7,12 @@
         padding-bottom: 10rem;
     }
 
+    .title-content__title,
+    .title-content__content {
+        transform: scaleX(0);
+        transform-origin: 100% 100%;
+    }
+
     &__text {
         margin-bottom: 7rem;
     }

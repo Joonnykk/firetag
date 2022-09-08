@@ -24,7 +24,7 @@
             transition: color 0.2s ease-in-out;
 
             &:hover {
-                color: $color-orange;
+                color: $color-orange!important;
             }
 
             ins {

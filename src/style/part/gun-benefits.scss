@@ -13,6 +13,7 @@
     &__pic {
         padding-bottom: 4rem;
         display: block;
+        transform: scaleY(0);
         
         @media (min-width: $breakpoint-mobile-extra) {
             padding-bottom: 6rem;
@@ -27,6 +28,7 @@
         display: flex;
         flex-flow: row wrap;
         justify-content: space-between;
+        transform: scaleX(0);
     }
 
     &__item {
@@ -46,7 +48,8 @@
             border-top: 1px solid $color-white;
         }
         @media (min-width: $breakpoint-tablet) {
-            width: calc(33.33% - 5rem);
+            //width: calc(33.33% - 5rem);
+            width: calc(50% - 3rem);
         }
     }
 }

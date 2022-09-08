@@ -103,6 +103,23 @@
             object-fit: cover;
         }
 
+        //&-big {
+        //    display: none;
+        //
+        //    @media (min-width: $breakpoint-mobile-extra) {
+        //        display: block;
+        //    }
+        //}
+        //
+        //&-small {
+        //
+        //    @media (min-width: $breakpoint-mobile-extra) {
+        //        display: none;
+        //    }
+        //}
+
+
+
         &::before {
             content: '';
             display: block;
@@ -181,9 +198,22 @@
         a {
             display: block;
             padding-bottom: 2rem;
+            position: relative;
+
+            &::before {
+                content: "*";
+                position: absolute;
+                color: #6d6d6d;
+                left: 2rem;
+                top: -0.5rem;
+            }
 
             &:last-child {
                 padding-bottom: 0;
+
+                &::before {
+                    display: none;
+                }
             }
 
             img {
@@ -191,6 +221,12 @@
             }
             &:hover img {
                 opacity: 0.5;
+            }
+
+            &:hover {
+                span {
+                    display: inline-block;
+                }
             }
         }
     }

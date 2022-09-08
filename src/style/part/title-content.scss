@@ -64,6 +64,12 @@
     &--map {
         position: relative;
 
+        .title-content__title,
+        .title-content__content {
+          transform: scaleX(0);
+        }
+
+
         &::before {
             content: '';
             display: block;

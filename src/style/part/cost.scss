@@ -11,6 +11,7 @@
 
         img {
             max-width: 100%;
+            transform: scaleX(0);
         }
     }
 
@@ -31,6 +32,7 @@
             -webkit-text-fill-color: transparent;
             font-size: 4rem;
             color: transparent;
+            transform: scaleX(0);
 
             @media (min-width: $breakpoint-mobile-extra) {
                 width: auto;
@@ -53,6 +55,7 @@
             text-transform: uppercase;
             font-weight: 300;
             color: $color-white-70p;
+            transform: scaleX(0);
 
             @media (min-width: $breakpoint-mobile-extra) {
                 width: 50%;

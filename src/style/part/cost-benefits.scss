@@ -17,6 +17,10 @@
         margin-bottom: 5rem;
         max-width: 42rem;
 
+        .title-content.title-content--block {
+            transform: scaleX(0);
+        }
+
         @media (min-width: $breakpoint-tablet) {
             margin-bottom: 7rem;
         }
@@ -45,10 +49,17 @@
             width: 50%;
         }
 
+        img {
+            transform: scaleY(0);
+            transform-origin: 0% 100%;
+        }
+
         &-content {
             padding-top: 3rem;
             width: 100%;
             color: $color-gray;
+            transform: scaleY(0);
+            transform-origin: 0% 100%;
 
             @media (min-width: $breakpoint-tablet) {
                 padding-top: 0;

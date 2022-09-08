@@ -45,7 +45,6 @@ function scrollIt(destination, duration = 200, easing = 'linear', callback) {
 
     const start = window.pageYOffset;
     const startTime = 'now' in window.performance ? performance.now() : new Date().getTime();
-
     const documentHeight = Math.max(document.body.scrollHeight, document.body.offsetHeight, document.documentElement.clientHeight, document.documentElement.scrollHeight, document.documentElement.offsetHeight);
     const windowHeight = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
     const destinationOffset = typeof destination === 'number' ? destination : destination.offsetTop;
@@ -63,7 +62,6 @@ function scrollIt(destination, duration = 200, easing = 'linear', callback) {
         const time = Math.min(1, ((now - startTime) / duration));
         const timeFunction = easings[easing](time);
         window.scroll(0, Math.ceil((timeFunction * (destinationOffsetToScroll - start)) + start));
-
         if (window.pageYOffset === destinationOffsetToScroll) {
             if (callback) {
                 callback();
@@ -78,12 +76,10 @@ function scrollIt(destination, duration = 200, easing = 'linear', callback) {
 }
 
 const scrollToLinks = document.querySelectorAll('.js-scroll-to');
-
 Array.prototype.forEach.call(scrollToLinks, function (el, i) {
     el.onclick = function () {
         let taregetId = this.dataset.target
         let targetBlock = document.querySelector(taregetId);
-
         scrollIt(targetBlock, 500, 'easeOutQuad');
     };
 });

@@ -82,7 +82,8 @@
     }
     &__item:hover &__dropdown {
         opacity: 1;
-        top: 100%;
+        top: auto;
         pointer-events: all;
+        bottom: 100%;
     }
 }

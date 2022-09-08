@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86399689-7076-4ad6-9bf0-7b37afcb9834" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/img/promo-bg_sm5all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/promo-bg_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/scenario_bond_legacy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/scenario_capture_the_flag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/scenario_escape.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/scenario_hostage_rescue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/scenario_shturm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/scenario_team_battle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/benefits-pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/benefits-pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/project-logo-8.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/project-logo-8.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/lib/scrollto.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/lib/scrollto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/part/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/part/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/benefits.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/benefits.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/cost-benefits.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/cost-benefits.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/cost.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/cost.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/footer-menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/footer-menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/gun-benefits.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/gun-benefits.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/gun.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/gun.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/header-menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/header-menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/inside.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/inside.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/promo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/promo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/title-content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/title-content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/part/work.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/part/work.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/_header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/contacts-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/contacts-footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/cost-benefits.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/cost-benefits.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/cost.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/cost.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/footer-menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/footer-menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/gun-benefits.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/gun-benefits.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/gun.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/gun.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/inside.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/inside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/numbers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/promo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/promo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/scenario.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/scenario.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/title-content-block-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/title-content-block-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/title-content-block-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/title-content-block-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/title-content-block-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/title-content-block-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/title-content-block-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/title-content-block-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/work.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E1XpEhVncxLJXSlf8eFVPZvL8I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/OpenServer/domains/firetag/src/img",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\firetag\src\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\firetag\build" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86399689-7076-4ad6-9bf0-7b37afcb9834" name="Changes" comment="" />
+      <created>1661764244703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661764244703</updated>
+      <workItem from="1661764245836" duration="2922000" />
+      <workItem from="1661767429933" duration="7938000" />
+      <workItem from="1662032753581" duration="5345000" />
+      <workItem from="1662101410943" duration="12710000" />
+      <workItem from="1662121352442" duration="9745000" />
+      <workItem from="1662361948463" duration="1124000" />
+      <workItem from="1662364572643" duration="6293000" />
+      <workItem from="1662387489567" duration="7312000" />
+      <workItem from="1662445898439" duration="7990000" />
+      <workItem from="1662455162505" duration="629000" />
+      <workItem from="1662463054105" duration="3435000" />
+      <workItem from="1662534515605" duration="1290000" />
+      <workItem from="1662621767694" duration="4420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/firetag-html" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

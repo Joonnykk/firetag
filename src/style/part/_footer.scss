@@ -37,15 +37,43 @@
         text-align: right;
 
         @media (min-width: $breakpoint-tablet-extra) {
-            display: block;
+            display: flex;
+            align-items: center;
+        }
+
+        span {
+            color: #6d6d6d;
+            font-size: 1rem;
+            margin-right: auto;
         }
 
         a {
             margin-left: 1rem;
             transition: opacity 0.2s ease-in-out;
+            position: relative;
+
+            &::before {
+                content: "*";
+                position: absolute;
+                color: #6d6d6d;
+                left: 2.2rem;
+                top: -0.5rem;
+            }
+
+            &:last-child {
+                &::before {
+                    display: none;
+                }
+            }
         }
         a:hover {
             opacity: 0.5;
+        }
+
+        div {
+            text-align: right;
+            color: white;
+            font-size: 0.8rem;
         }
     }
     &__line {
